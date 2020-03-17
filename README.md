@@ -1,24 +1,3 @@
-# README
+# happyairways
+Happy Airways is a fictional airline that always has their customers top of mind! We at Happy Airways are dedicated to ensuring the best travel experiences for all our clients and pride ourselves on crafting exceptionally happy experiences day in and day out. Come fly with us and experience the best the air has to offer. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
